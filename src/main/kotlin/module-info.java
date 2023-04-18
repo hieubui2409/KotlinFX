@@ -10,6 +10,7 @@ module com.lucasbui.kotlinfx {
 
     opens com.lucasbui.kotlinfx;
     exports com.lucasbui.kotlinfx;
-    exports com.lucasbui.kotlinfx.views;
+    exports com.lucasbui.kotlinfx.views.screens;
+    exports com.lucasbui.kotlinfx.views.fragments;
     exports com.lucasbui.kotlinfx.controllers;
 }
